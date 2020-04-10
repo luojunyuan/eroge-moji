@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "code-runner.executorMap": {
+        "python": "venv\\Scripts\\python.exe -u",
+        "qml": "venv\\Scripts\\qmlviewer.exe"
+    }
+}

@@ -1,0 +1,2 @@
+module Screen
+TextDisplay 1.0 TextDisplay.qml

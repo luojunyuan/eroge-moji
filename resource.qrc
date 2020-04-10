@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+   <file alias="heart.svg">moji/ui/images/heart.svg</file>
+   <file alias="main.qml">moji/ui/main.qml</file>
+   <file>moji/ui/imports/Screen/qmldir</file>
+   <file>moji/ui/imports/Screen/TextDisplay.qml</file>
+</qresource>
+</RCC>
